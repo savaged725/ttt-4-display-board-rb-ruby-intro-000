@@ -5,3 +5,5 @@ def display_board
    puts separator
    puts row
  end
+ 
+ 
